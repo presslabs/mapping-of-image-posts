@@ -1,0 +1,8 @@
+  .msg{ background:#aaa;padding:.2em; border-bottom:1px #000 solid; width:520px;}
+  .old{ background-color:#786; color:whitesmoke;}
+  .new{ background-color:#aaa; color:whitesmoke;}
+ .stop{ background-color:#786; color:whitesmoke;}
+.error{ background-color:#992E36; color:whitesmoke;}
+
+#moip_download_file, #moip_loader { display: none; }
+
