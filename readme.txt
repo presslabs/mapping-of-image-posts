@@ -1,9 +1,9 @@
 === Mapping of image posts ===
 Contributors: PressLabs, olarmarius
 Donate link: http://www.presslabs.com/
-Tags: mapping, posts, image, apache, htaccess, nginx, rewrite, php5, scan, redirect, attachment, presslabs 
+Tags: mapping, posts, image, apache, htaccess, nginx, rewrite, php5, scan, redirect, attachment, presslabs
 Requires at least: 3.8
-Tested up to: 3.8.1
+Tested up to: 4.3.1
 Stable tag: 1.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -55,4 +55,3 @@ Add settings link on plugin page.
 
 = 1.1 =
 Start version on WP.
-
