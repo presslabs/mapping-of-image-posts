@@ -3,7 +3,9 @@ Contributors: PressLabs, olarmarius
 Donate link: http://www.presslabs.com/
 Tags: mapping, posts, image, apache, htaccess, nginx, rewrite, php5, scan, redirect, attachment, presslabs
 Requires at least: 4.7
-Tested up to: 6.4
+Requires PHP: 5.6.40
+Tested up to: 6.6
+Stable tag: 1.2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -37,6 +39,8 @@ Use this plugin if you want to redirect your visitors from viewing image to the 
 none
 
 == Changelog ==
+= 1.2.2 =
+* fix a deprecation warning on PHP 8.3
 
 = 1.2.1 =
 * fix some small bugs.
