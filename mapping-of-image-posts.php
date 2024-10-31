@@ -132,7 +132,7 @@ function mapping_of_image_posts_callback() {
 			if ( '1' == $moip_image_type[ $key ] ) {
 				$attachment_image = wp_get_attachment_image_src( $attachment_id->ID, $image_type_string[ $key ] );
 				$image_parsed     = parse_url( $attachment_image[0] );
-				$image_out        = $image_parsed['path'] . $image_parsed['query'];
+				$image_out        = $image_parsed['path'] . (isset($image_parsed['query']) ? $image_parsed['query'] : '');
 
 				if ( ( '' < $image_out ) && ( '' < $post_out ) && ( ! in_array( $image_out, $array_image_out ) ) ) {
 					array_push( $array_image_out, $image_out );
