@@ -4,7 +4,7 @@
  * Plugin URI: http://wordpress.org/extend/plugins/mapping-of-image-posts/
  * Description: Generate a mapping of image - article it belongs, by scanning all attachments.
  * Author: PressLabs
- * Version: 1.2.3
+ * Version: 1.2.4
  * Author URI: http://www.presslabs.com/
  */
 
