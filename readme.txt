@@ -4,8 +4,8 @@ Donate link: http://www.presslabs.com/
 Tags: mapping posts image, rewrite, scan, attachment, presslabs
 Requires at least: 4.7
 Requires PHP: 5.6.40
-Tested up to: 7.0
-Stable tag: 1.2.5
+Tested up to: 7.1
+Stable tag: 1.2.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -39,6 +39,10 @@ Use this plugin if you want to redirect your visitors from viewing image to the 
 none
 
 == Changelog ==
+
+= 1.2.6 =
+* tested up to WP 7.1
+
 = 1.2.5 =
 * tested up to WP 7.0
 
